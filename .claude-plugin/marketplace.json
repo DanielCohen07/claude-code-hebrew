@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-hebrew",
+  "description": "Hebrew right-to-left support for Claude Code",
+  "owner": { "name": "DanielCohen07" },
+  "plugins": [
+    {
+      "name": "hebrew-rtl",
+      "source": "./",
+      "description": "Hebrew in Claude Code: replies in Hebrew, and Hebrew messages read right to left in the desktop app and the terminal."
+    }
+  ]
+}

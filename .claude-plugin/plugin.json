@@ -1,0 +1,11 @@
+{
+  "name": "hebrew-rtl",
+  "version": "0.3.0",
+  "description": "Hebrew in Claude Code: replies in Hebrew; on the desktop app every Hebrew block opens with a right-to-left mark so lists and paragraphs that start with an English word still read right to left; on the terminal Hebrew messages are redrawn right to left. /rtl toggles it.",
+  "author": {
+    "name": "DanielCohen07"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/DanielCohen07/claude-code-hebrew",
+  "types": "./types/index.d.ts"
+}
